@@ -296,3 +296,5 @@ This app is intended as a practical Windows utility for recovering and viewing O
 It is not an official Microsoft application.
 
 Use it with care, keep backups of important photos, and verify exported files before deleting anything from OneDrive or your iPhone.
+
+This application is an extension of the CLI application created by @PetrVys - https://github.com/PetrVys/Download-ODLivePhotos 
